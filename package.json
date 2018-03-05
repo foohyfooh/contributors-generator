@@ -1,0 +1,17 @@
+{
+  "name": "contributors-generator",
+  "version": "1.0.0",
+  "description": "Generate contributors.md for a GitHub repo",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "generate": "node main.js foohyfooh contributors-generator"
+  },
+  "author": "Jonathan Herbert",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "request-promise-native": "^1.0.5"
+  }
+}
