@@ -1,7 +1,7 @@
 # Contributors Generator
 
 ## Description
-<p>A tool to generate acontributors.md for a GitHub repo<p> 
+<p>A tool to generate a contributors.md for a GitHub repo<p> 
 
 ## Usage
 ```
